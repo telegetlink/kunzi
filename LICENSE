@@ -1,15 +1,3 @@
-# CuteBaby
-
-## Description
-
-
-I want to create a password to protect sensitive information that I have acccess to as an employee.
-The password should be strong with a mix of different characters and a min lenght of 8 characters and a max of 128.
-I built this project to increase the security where the data is stored and prevent any hackers from stealing information.
-It solved the problem of choosing a password that meets the criteria for a password that is hard to guess.
-
-## License
-
 MIT License
 
 Copyright (c) 2022 Angelica
@@ -31,8 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
-
-
-
